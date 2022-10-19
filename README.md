@@ -8,5 +8,8 @@ I'll work to make this plug and play on tampermonkey for firefox, as a simple lo
 
 Next step is to make the conversion executable for MACOS and WINDOWS which will spit out the .ics file.
 
+-Selenium may be an option
+
+
 -Chris 
 
